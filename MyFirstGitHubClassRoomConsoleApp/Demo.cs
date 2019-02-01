@@ -8,5 +8,6 @@ namespace MyFirstGitHubClassRoomConsoleApp
 {
     class Demo
     {
+        public int nr { get; set; }
     }
 }
